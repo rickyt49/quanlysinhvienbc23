@@ -8,4 +8,7 @@ function SinhVien() {
   this.diemToan = "";
   this.diemLy = "";
   this.diemHoa = "";
+  this.xepLoai = function () {
+    console.log("dev C code ham xep loai!");
+  };
 }
