@@ -55,4 +55,7 @@ function Validation() {
     document.querySelector(selectorError).innerHTML = "";
     return true;
   };
+  this.kiemtraDevC = function () {
+    console.log("123");
+  };
 }
