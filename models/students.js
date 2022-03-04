@@ -11,4 +11,7 @@ function SinhVien() {
   this.xepLoai = function () {
     console.log("dev C code ham xep loai!");
   };
+  this.tinhDiemTrungBinh = function () {
+    console.log("Tính điểm trung bình!");
+  };
 }
