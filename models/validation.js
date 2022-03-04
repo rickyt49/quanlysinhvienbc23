@@ -57,5 +57,8 @@ function Validation() {
   };
   this.kiemTraDevB = function () {
     console.log("testing");
+  }
+  this.kiemTraDevA = function () {
+    console.log("Check Dev A");
   };
 }
