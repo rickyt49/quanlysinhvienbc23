@@ -55,4 +55,7 @@ function Validation() {
     document.querySelector(selectorError).innerHTML = "";
     return true;
   };
+  this.kiemTraDevB = function () {
+    console.log("testing");
+  };
 }
