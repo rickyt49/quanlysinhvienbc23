@@ -8,4 +8,7 @@ function SinhVien() {
   this.diemToan = "";
   this.diemLy = "";
   this.diemHoa = "";
+  this.tinhDiemTrungBinh = function () {
+    console.log("Tính điểm trung bình!");
+  };
 }
